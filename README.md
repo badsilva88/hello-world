@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Este é um teste do w3schools.
 
 Mudança 2.
+
+Adicionando nova linha
